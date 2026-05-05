@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+out/
+
+# JavaFX SDK (download separately — too large for GitHub)
+lib/javafx-sdk-21.0.2/
+lib/javafx-sdk.zip
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
